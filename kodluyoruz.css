@@ -1,0 +1,28 @@
+body{
+    background-color: #F4EEEE;
+    }
+
+h1{
+    color: #96C291;
+    font-size: 45px;
+}
+
+h2{
+    color: darkblue;
+}
+
+p{
+    font-size: 19px;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+.fs-12{
+    font-size: 12px;
+}
+
+strong{
+    color: #C23373;
+}
